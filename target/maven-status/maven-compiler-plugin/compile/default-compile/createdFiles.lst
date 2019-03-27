@@ -1,0 +1,5 @@
+com/rossi/javaspringboot/Test.class
+com/rossi/javaspringboot/topic/TopicService.class
+com/rossi/javaspringboot/hello/HelloController.class
+com/rossi/javaspringboot/topic/Topic.class
+com/rossi/javaspringboot/topic/TopicController.class
